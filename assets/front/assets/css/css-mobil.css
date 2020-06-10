@@ -1,0 +1,845 @@
+	#header_mobile
+	{
+		padding-top: 17%;
+	}
+
+@media screen and (min-width: 410px) {
+
+
+	
+	#takip{
+	float: left;
+	width: 38%;
+	text-align: center;
+	font-weight: 600;
+	color: #fff;
+	padding: 8px;
+	padding-top: 12px;
+	}
+
+	#ust_saat
+	{
+		float: left;
+		padding: 7px;
+		width: 22%;
+	}
+
+	#demoust img
+	{
+		padding: 8px;width: 27%;float: right;
+	}
+
+
+
+	#ustsayac_dakika{
+    float: left;
+    text-align: center;
+    background-color: #2f2f2f;
+    font-size: 13px;
+    font-weight: bolder;
+    color: #fff;
+    padding: 5px;
+	}
+	
+	
+		#ustsayac_saniye{
+    float: left;
+    text-align: center;
+    background-color: #2f2f2f;
+    font-size: 13px;
+    font-weight: bolder;
+    color: #fff;
+    padding: 5px;
+	}
+	
+	
+
+	
+	
+		#ustsayac_saat2{
+ float: left;
+    padding-left: 22px;
+    padding-right: 28px;
+
+	}
+		#ustsayac_dakika2{
+float: left;
+    padding-left: 15px;
+    padding-right: 37px;
+	}
+	
+	
+		#ustsayac_saniye2{
+ float: left;
+
+	}
+
+	
+		
+		#ustsayac_saat4{
+ float: left;
+    padding-left: 22px;
+    padding-right: 28px;
+
+	}
+		#ustsayac_dakika4{
+float: left;
+    padding-left: 15px;
+    padding-right: 37px;
+	}
+	
+	
+		#ustsayac_saniye4{
+ float: left;
+
+	}
+	
+		#ustsayac_saat3{
+ float: left;
+    padding-left: 22px;
+    padding-right: 28px;
+
+	}
+		#ustsayac_dakika3{
+float: left;
+    padding-left: 15px;
+    padding-right: 37px;
+	}
+	
+	
+		#ustsayac_saniye3{
+ float: left;
+
+	}
+
+
+
+
+	#sayac_gun_1{width: 100%; font-family: 'PT Sans', sans-serif;float:left;background-color: #fa0086;}
+	
+		#sayac_gun_2{width: 100%; font-family: 'PT Sans', sans-serif;float:left;background-color: #393939;}
+
+
+
+	
+	#sayac_gun_1_ust_yazi{
+	float: left;
+    font-size: 13px;
+    color: #ffffff;
+    font-weight: 600;width: 100%; padding-bottom:5px;padding-top:15px;}
+
+
+    #stok_txt_1{float: left;margin-left: 13px;}
+	#zaman_txt_1{float: left;margin-left: 36px;}
+
+	#stok_adet_txt{float: left;
+					width: 22%;
+				text-align: center;
+				font-weight: 600;
+				color: #fff;
+				border-radius: 9px;
+				font-size: 32px;
+				margin-left: 8%;
+				    margin-top: -18%;
+				}
+	#sayac_gun_1_sayac{float: left;
+				width: 58%;
+				text-align: center;
+				font-weight: 600;
+				color: #48008a;
+				border-radius: 9px;
+				font-size: 32px;
+				background-color: #fff;
+				margin-left: 10%;}
+	
+	#sayac_gun_1_sayac2{float: left;
+				width: 58%;
+				text-align: center;
+				font-weight: 600;
+				color: #48008a;
+				border-radius: 9px;
+				font-size: 32px;
+				background-color: #fff;
+				margin-left: 10%;}
+
+	#sayac_gun_1_alt_yazi{
+		float: right;
+		font-size: 13px;
+		color: #ffffff;
+		font-weight: 600;
+		padding-bottom:15px;
+		padding-top:5px;
+		margin-right: 26px;
+	}
+	
+	#sayac_gun_2_alt_yazi{
+		float: right;
+    font-size: 13px;
+    color: #fff;
+    font-weight: 600;padding-bottom:15px;padding-top:5px;margin-right:42px;
+	}
+
+	
+	#sayac_gun_2_alt_yazi{
+		float: right;
+    font-size: 13px;
+    color: #fff;
+    font-weight: 600;padding-bottom:15px;padding-top:5px;margin-right:42px;
+	}
+
+	#sayac_gun_1_alt_saat{float: left;margin-right: 45px;}
+
+	#sayac_gun_1_alt_dk{float: left;margin-right: 31px;}
+
+	#sayac_gun_1_alt_san{float: left;}
+
+
+
+
+
+
+
+	#stok_adet_txt2{float: left;
+					width: 22%;
+				text-align: center;
+				font-weight: 600;
+				color: #fff;
+				border-radius: 9px;
+				font-size: 32px;
+				margin-left: 8%;
+				    margin-top: -18%;
+				}
+
+
+
+
+}
+
+
+
+#sayac_gun_2_ust_yazi{
+	float: left;
+    font-size: 13px;
+    color: #fff;
+    font-weight: 600;width: 100%; padding-bottom:5px;padding-top:15px;}
+
+
+
+@media screen and (max-width:376px) {
+	#header_mobile
+	{
+		padding-top: 18%;
+	}
+	
+	
+	#takip{
+	float: left;
+	width: 41%;
+	text-align: center;
+	font-weight: 600;
+	color: #fff;
+	padding: 9px;
+	padding-top: 12px;
+	}
+
+	#ust_saat
+	{
+		float: left;
+		padding-top: 13px;
+		width: 20%;
+	}
+
+	#demoust img
+	{
+		padding-top: 14px; padding-right:8px; width: 29%;float: right;
+	}
+
+
+
+	#ustsayac_dakika{
+    float: left;
+    text-align: center;
+    background-color: #2f2f2f;
+    font-size: 13px;
+    font-weight: bolder;
+    color: #fff;
+    padding: 5px;
+	}
+	
+	
+		#ustsayac_saniye{
+    float: left;
+    text-align: center;
+    background-color: #2f2f2f;
+    font-size: 13px;
+    font-weight: bolder;
+    color: #fff;
+    padding: 5px;
+	}
+	
+	
+
+
+		#ustsayac_saat2{
+ float: left;
+    padding-left: 22px;
+    padding-right: 28px;
+
+	}
+		#ustsayac_dakika2{
+float: left;
+    padding-left: 15px;
+    padding-right: 37px;
+	}
+	
+	
+		#ustsayac_saniye2{
+ float: left;
+
+	}
+
+	
+	
+	
+		#ustsayac_saat4{
+ float: left;
+    padding-left: 22px;
+    padding-right: 28px;
+
+	}
+		#ustsayac_dakika4{
+float: left;
+    padding-left: 15px;
+    padding-right: 37px;
+	}
+	
+	
+		#ustsayac_saniye4{
+ float: left;
+
+	}
+	
+		#ustsayac_saat3{
+ float: left;
+    padding-left: 22px;
+    padding-right: 28px;
+
+	}
+		#ustsayac_dakika3{
+float: left;
+    padding-left: 15px;
+    padding-right: 37px;
+	}
+	
+	
+		#ustsayac_saniye3{
+ float: left;
+
+	}
+
+
+
+
+	#sayac_gun_1{width: 100%; font-family: 'PT Sans', sans-serif;float:left;background-color: #fa0086;}
+#sayac_gun_2{width: 100%; font-family: 'PT Sans', sans-serif;float:left;background-color: #393939;}
+
+	
+	#sayac_gun_1_ust_yazi{
+	float: left;
+    font-size: 13px;
+    color: #ffffff;
+    font-weight: 600;width: 100%; padding-bottom:5px;padding-top:15px;}
+
+
+    #stok_txt_1{float: left;margin-left: 5px;}
+	#zaman_txt_1{float: left;margin-left: 17px;}
+
+	#stok_adet_txt{float: left;
+					width: 22%;
+				text-align: center;
+				font-weight: 600;
+				color: #fff;
+				border-radius: 9px;
+				font-size: 32px;
+				margin-left: 8%;
+				    margin-top: -18%;
+				}
+	#sayac_gun_1_sayac{float: left;
+				width: 58%;
+				text-align: center;
+				font-weight: 600;
+				color: #48008a;
+				border-radius: 9px;
+				font-size: 32px;
+				background-color: #fff;
+				margin-left: 10%;}
+	
+	#sayac_gun_1_sayac2{float: left;
+				width: 58%;
+				text-align: center;
+				font-weight: 600;
+				color: #48008a;
+				border-radius: 9px;
+				font-size: 32px;
+				background-color: #fff;
+				margin-left: 10%;}
+
+	#sayac_gun_1_alt_yazi{
+		float: right;
+    font-size: 13px;
+    color: #ffffff;
+    font-weight: 600;padding-bottom:15px;padding-top:5px;margin-right:19px;
+	}
+	
+	#sayac_gun_2_alt_yazi{
+		float: right;
+    font-size: 13px;
+    color: #fff;
+    font-weight: 600;padding-bottom:15px;padding-top:5px;margin-right:19px;
+	}
+
+	#sayac_gun_1_alt_saat{float: left;margin-right: 45px;}
+
+	#sayac_gun_1_alt_dk{float: left;margin-right: 31px;}
+
+	#sayac_gun_1_alt_san{float: left;}
+
+
+
+
+
+
+
+	#stok_adet_txt2{float: left;
+					width: 22%;
+				text-align: center;
+				font-weight: 600;
+				color: #fff;
+				border-radius: 9px;
+				font-size: 32px;
+				margin-left: 8%;
+				    margin-top: -18%;
+				}
+
+	}
+
+@media screen and (max-width:321px) {
+
+		#header_mobile
+	{
+		padding-top: 22%;
+	}
+	
+	#takip{
+	float: left;
+	width: 36%;
+	text-align: center;
+	font-weight: 600;
+	color: #fff;
+	padding: 5px;
+	padding-top: 3px;
+	}
+
+	#ust_saat
+	{
+		float: left;
+		padding-top: 13px;
+		width: 30%;
+	}
+
+	#demoust img
+	{
+		padding-top: 17px;
+		padding-right:8px;
+		width: 28%;
+		float: right;
+	}
+
+
+
+	#ustsayac_dakika{
+    float: left;
+    text-align: center;
+    background-color: #2f2f2f;
+    font-size: 13px;
+    font-weight: bolder;
+    color: #fff;
+    padding: 5px;
+	}
+	
+	
+		#ustsayac_saniye{
+    float: left;
+    text-align: center;
+    background-color: #2f2f2f;
+    font-size: 13px;
+    font-weight: bolder;
+    color: #fff;
+    padding: 5px;
+	}
+	
+	
+
+
+		
+	
+	
+		#ustsayac_saat2{
+ float: left;
+ padding-left: 23px;
+ padding-right: 20px;
+ }
+		#ustsayac_dakika2{float: left;padding-left: 0px;padding-right: 20px;}
+	
+	
+		#ustsayac_saniye2{
+ float: left;
+
+	}
+
+
+	
+	
+	
+	#ustsayac_saat4{
+ float: left;
+ padding-left: 23px;
+ padding-right: 20px;
+ }
+		#ustsayac_dakika4{float: left;padding-left: 0px;padding-right: 20px;}
+	
+	
+		#ustsayac_saniye4{
+ float: left;
+
+	}
+
+	
+	
+	
+		#ustsayac_saat3{
+ float: left;
+ padding-left: 23px;
+ padding-right: 20px;
+ }
+		#ustsayac_dakika3{float: left;padding-left: 0px;padding-right: 20px;}
+	
+	
+		#ustsayac_saniye3{
+ float: left;
+
+	}
+
+
+
+
+	#sayac_gun_1{width: 100%; font-family: 'PT Sans', sans-serif;float:left;background-color: #ff1985;}
+#sayac_gun_2{width: 100%; font-family: 'PT Sans', sans-serif;float:left;background-color: #393939;}
+
+	
+	#sayac_gun_1_ust_yazi{
+	float: left;
+	font-size: 13px;
+	color: #fff;
+	font-weight: 600;
+	width: 100%;
+	padding-bottom:5px;
+	padding-top:15px;
+	}
+
+
+    #stok_txt_1{float: left;margin-left: 4px;}
+	#zaman_txt_1{float: left;margin-left: 17px !important;width: 155px;}
+
+	#stok_adet_txt{
+				float: left;
+					width: 22%;
+				text-align: center;
+				font-weight: 600;
+				color: #fff;
+				border-radius: 9px;
+				font-size: 32px;
+				margin-left: 8%;
+				    margin-top: -18%;
+				}
+	#sayac_gun_1_sayac{
+				float: left;
+				width: 58%;
+				text-align: center;
+				font-weight: 600;
+				color: #48008a;
+				border-radius: 9px;
+				font-size: 32px;
+				background-color: #fff;
+				margin-left: 12%;
+				}
+	#sayac_gun_1_sayac2{
+				float: left;
+				width: 58%;
+				text-align: center;
+				font-weight: 600;
+				color: #48008a;
+				border-radius: 9px;
+				font-size: 32px;
+				background-color: #fff;
+				margin-left: 12%;
+				}
+
+
+	#sayac_gun_1_alt_yazi{
+		float: right;
+		font-size: 13px;
+		color: #fff;
+		font-weight: 600;
+		padding-bottom:15px;
+		padding-top:5px;
+		margin-right: 13px;
+	}
+	
+	#sayac_gun_2_alt_yazi{
+		float: right;
+		font-size: 13px;
+		color: #fff;
+		font-weight: 600;
+		padding-bottom:15px;
+		padding-top:5px;
+		margin-right: 13px;
+	}
+
+	#sayac_gun_1_alt_saat{float: left;margin-right: 22px;}
+
+	#sayac_gun_1_alt_dk{float: left;margin-right: 17px;}
+
+	#sayac_gun_1_alt_san{float: left;}
+
+
+
+
+
+
+
+	#stok_adet_txt2{
+				float: left;
+					width: 22%;
+				text-align: center;
+				font-weight: 600;
+				color: #fff;
+				border-radius: 9px;
+				font-size: 32px;
+				margin-left: 8%;
+				    margin-top: -18%;
+				}
+
+
+	}
+
+
+
+
+@media screen and (max-width:361px) {
+	#header_mobile
+	{
+		padding-top: 19%;
+	}
+	
+	
+	#takip{
+	float: left;
+	width: 36%;
+	text-align: center;
+	font-weight: 600;
+	color: #fff;
+	padding: 5px;
+	padding-top: 3px;
+	}
+
+	#ust_saat
+	{
+		float: left;
+		padding-top: 13px;
+		width: 28%;
+	}
+
+	#demoust img
+	{
+		padding-top: 17px;
+		padding-right:8px;
+		width: 28%;
+		float: right;
+	}
+
+
+
+	#ustsayac_dakika{
+    float: left;
+    text-align: center;
+    background-color: #2f2f2f;
+    font-size: 13px;
+    font-weight: bolder;
+    color: #fff;
+    padding: 5px;
+	}
+	
+	
+		#ustsayac_saniye{
+    float: left;
+    text-align: center;
+    background-color: #2f2f2f;
+    font-size: 13px;
+    font-weight: bolder;
+    color: #fff;
+    padding: 5px;
+	}
+	
+	
+
+
+	
+		
+	
+		#ustsayac_saat2{
+ float: left;
+ padding-left: 23px;
+ padding-right: 26px;
+ }
+		#ustsayac_dakika2{float: left;padding-left: 0px;padding-right: 26px;}
+	
+	
+		#ustsayac_saniye2{
+ float: left;
+
+	}
+
+
+	
+	
+	
+		#ustsayac_saat4{
+ float: left;
+ padding-left: 23px;
+ padding-right: 26px;
+ }
+		#ustsayac_dakika4{float: left;padding-left: 0px;padding-right: 26px;}
+	
+	
+		#ustsayac_saniye4{
+ float: left;
+
+	}
+	
+	
+	
+		#ustsayac_saat3{
+ float: left;
+ padding-left: 23px;
+ padding-right: 26px;
+ }
+		#ustsayac_dakika3{float: left;padding-left: 0px;padding-right: 26px;}
+	
+	
+		#ustsayac_saniye3{
+ float: left;
+
+	}
+
+
+
+
+	#sayac_gun_1{width: 100%; font-family: 'PT Sans', sans-serif;float:left;background-color: #fa0086;}
+#sayac_gun_2{width: 100%; font-family: 'PT Sans', sans-serif;float:left;background-color: #393939;}
+
+	
+	#sayac_gun_1_ust_yazi{
+	float: left;
+	font-size: 13px;
+	color: #ffffff;
+	font-weight: 600;
+	width: 100%;
+	padding-bottom:5px;
+	padding-top:15px;
+	}
+
+
+    #stok_txt_1{float: left;margin-left: 1px;}
+	#zaman_txt_1{float: left;margin-left: 14px;}
+
+	#stok_adet_txt{
+				float: left;
+					width: 22%;
+				text-align: center;
+				font-weight: 600;
+				color: #fff;
+				border-radius: 9px;
+				font-size: 32px;
+				margin-left: 8%;
+				    margin-top: -18%;
+				}
+	#sayac_gun_1_sayac{
+				float: left;
+				width: 58%;
+				text-align: center;
+				font-weight: 600;
+				color: #48008a;
+				border-radius: 9px;
+				font-size: 32px;
+				background-color: #fff;
+				margin-left: 12%;
+				}
+	#sayac_gun_1_sayac2{
+				float: left;
+				width: 58%;
+				text-align: center;
+				font-weight: 600;
+				color: #48008a;
+				border-radius: 9px;
+				font-size: 32px;
+				background-color: #fff;
+				margin-left: 12%;
+				}
+
+	#sayac_gun_1_alt_yazi{
+		float: right;
+		font-size: 13px;
+		color: #ffffff;
+		font-weight: 600;
+		padding-bottom:15px;
+		padding-top:5px;
+		margin-right: 20px;
+	}
+	
+	#sayac_gun_2_alt_yazi{
+		float: right;
+		font-size: 13px;
+		color: #fff;
+		font-weight: 600;
+		padding-bottom:15px;
+		padding-top:5px;
+		margin-right: 29px;
+	}
+
+	#sayac_gun_1_alt_saat{float: left;margin-right: 27px;}
+
+	#sayac_gun_1_alt_dk{float: left;margin-right: 20px;}
+
+	#sayac_gun_1_alt_san{float: left;}
+
+
+
+
+
+
+
+	#stok_adet_txt2{
+				float: left;
+					width: 22%;
+				text-align: center;
+				font-weight: 600;
+				color: #fff;
+				border-radius: 9px;
+				font-size: 32px;
+				margin-left: 8%;
+				    margin-top: -18%;
+				}
+
+
+	}
